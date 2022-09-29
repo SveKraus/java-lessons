@@ -1,6 +1,6 @@
 package lesson2;
 
-public class primer {
+public class Primer {
     public static void main(String[] arg) {
 
         int x = 19;

@@ -1,6 +1,6 @@
 package lesson2;
 
-public class homework{
+public class Homework{
         public static void main(String[] args) {
             int dec = 637; // 6 * 100 + 3 * 10 + 7 * 1
             String convert = Integer.toHexString(dec);

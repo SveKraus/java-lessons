@@ -2,17 +2,17 @@ package lesson2;
 
 import java.util.Scanner;
 
-public class zadacha {
+public class Zadacha {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
-        int TovarA = 1000;
-        int TovarB = 500;
-        int Discount = 100;
+        int tovarA = 1000;
+        int tovarB = 500;
+        int discount = 100;
         int price;
-        price = TovarA + TovarB;
-        price = price - Discount;
+        price = tovarA + tovarB;
+        price = price - discount;
         System.out.println("стоимость Вашей покупки" + price + "рублей");
-        System.out.println("Ваша скидка" +  Discount + "рублей");
+        System.out.println("Ваша скидка" +  discount + "рублей");
 
 
     }

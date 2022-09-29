@@ -1,6 +1,6 @@
 package lesson2;
 
-public class degree {
+public class Degree {
     static int square(int a) {
         int result = a*a;
         return result;
