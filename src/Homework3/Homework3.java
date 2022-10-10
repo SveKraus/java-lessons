@@ -2,8 +2,8 @@ package Homework3;
 
 public class Homework3 {
     public static void main(String[] args){
-        char c = 'g';
-        int i = c;
+        int c = 'g';
+        char i = (char) c;
         System.out.println(i);
 
     }
