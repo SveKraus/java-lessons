@@ -8,7 +8,7 @@ public class Chislo {
     public static boolean main(String[] args) {
         Scaner scan = new Scanner(System.in);
         int x = scan.nextInt();
-        System.out.println(parted4For6);
+        System.out.println(
 
 
         Scanner string = new Scaner(System.in);
