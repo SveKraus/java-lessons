@@ -9,9 +9,13 @@ public class Homework1 {
         String phrase = sc.nextLine();
         System.out.println(phrase.length());
 
+        Summa sum = new Summa();
+
+        Pizza pizza = new Pizza();
+
 
         Home myHome = new Home(17,7,18,"red",9);
-
+        Temperature conv = new Temperature();
 
 
 
