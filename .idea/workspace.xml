@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91504014-16fa-4638-9638-58969831f0bd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainForPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainForString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework11/Masiv5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework11/Massiv1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework11/Massiv2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework11/Massiv3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework11/Massiv4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework1/MainForDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/MainForDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework1/MainForPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/MainForPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework1/MainForStrana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/MainForStrana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework1/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework1/Strana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework1/Strana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homework3/Homework1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework3/Homework1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/homework4/Homework2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/homework4/Homework2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Jb9nNYSo7DABx197h5ABUuveE5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ACER/IdeaProjects/Zifra"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ACER\IdeaProjects\homework-Java\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Masiv5">
+    <configuration name="Masiv5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework11.Masiv5" />
+      <module name="Zifra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Massiv1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework11.Massiv1" />
+      <module name="Zifra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Massiv2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework11.Massiv2" />
+      <module name="Zifra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Massiv3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework11.Massiv3" />
+      <module name="Zifra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Massiv4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homework11.Massiv4" />
+      <module name="Zifra" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homework11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Masiv5" />
+        <item itemvalue="Application.Massiv4" />
+        <item itemvalue="Application.Massiv3" />
+        <item itemvalue="Application.Massiv2" />
+        <item itemvalue="Application.Massiv1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91504014-16fa-4638-9638-58969831f0bd" name="Changes" comment="" />
+      <created>1672336084029</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672336084029</updated>
+    </task>
+    <servers />
+  </component>
+</project>
